@@ -1,7 +1,7 @@
 # ==================================================
 # File Name: quiz_script.py
 # Author: Kenny Tang
-# Date: 2024-09-02
+# Date: 2024-09-03
 # Description: A simple computer knowledge quiz
 # License: MIT License
 # ==================================================
