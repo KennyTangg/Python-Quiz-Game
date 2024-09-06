@@ -1,7 +1,10 @@
-# Quiz game 
-# This is a quiz game about basic computer knowledge
-# Made by kenny tang 
-# Check my github in github.com/k3nnytang
+# ==================================================
+# File Name: quiz_script.py
+# Author: Kenny Tang
+# Date: 2024-09-02
+# Description: A simple computer knowledge quiz
+# License: MIT License
+# ==================================================
 
 print('''      ================================================
 
