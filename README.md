@@ -1,36 +1,41 @@
-
 # **Simple Computer Knowledge Quiz**
-Welcome to the **Simple Computer Knowledge Quiz**! This Python script is a fun and educational way to test your knowledge about basic computer terminology.
+
+Welcome to the **Simple Computer Knowledge Quiz**! This Python script offers a fun and educational way to test your understanding of basic computer terminology.
 
 ## Overview
-This script will prompt users with a series of questions related to computer knowledge. Users can answer these questions and receive feedback on their responses. At the end, the script will display the total number of correct answers and the user's percentage score.
+
+This script presents users with a series of questions about computer concepts. After answering, users receive feedback and a final score reflecting their performance. The script calculates both the number of correct answers and the percentage score.
 
 ## Features
-- Asks five questions about basic computer terminology and concepts.
-- Provides immediate feedback on each answer.
-- Calculates and displays the final score as a percentage.
+
+- **Five Questions**: Tests knowledge on fundamental computer terms and concepts.
+- **Immediate Feedback**: Provides real-time responses to each answer.
+- **Score Calculation**: Displays a percentage score based on the number of correct answers.
 
 ## How to Run
-1. Clone the Repository :
-`git clone https://github.com/k3nnytang/quiz-game.git`
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/k3nnytang/quiz-game.git
+
 2. Navigate to the Project Directory :
-`cd your-repository`
+    ```bash
+   cd quiz-game
+    
 3. Run the Quiz Script,
 Make sure you have Python installed on your machine. Then, execute the script using Python:
-`python quiz_script.py`
+    ```bash
+    python quiz_script.py
 
 ## Code Breakdown
-1. Introduction: The script starts by displaying a welcome message.
 
-2. Game Start Prompt: Users are asked if they want to start the game. The game only begins if the user inputs 'y'. If 'n' is entered, the script exits.
-
-3. Question and Answer Logic:
-- The script asks a series of questions related to computer terminology.
-- The 'key' function checks if the user's answer is correct and updates the score.
-
-4. Final Score: After all questions are answered, the script calculates and displays the total number of correct answers and the percentage score.
-
-5. End Message: Displays a thank you message to the user for playing.
+1. **Introduction**: The script begins with a welcome message.
+2. **Game Start Prompt**: Users are prompted to start the game. Input 'y' to begin or 'n' to exit.
+3. **Question and Answer Logic**:
+   - The script poses a series of computer-related questions.
+   - Answers are checked, and the score is updated accordingly.
+4. **Final Score**: Displays the total correct answers and the percentage score after all questions.
+5. **End Message**: Thanks the user for participating.
 
 ## Contributing
 Hi there! I’m new to GitHub and excited to learn more as I work on this project. If you’d like to help out or provide feedback, here’s how you can contribute:
