@@ -1,6 +1,6 @@
 # **Simple Computer Knowledge Quiz**
 
-Welcome to the **Simple Computer Knowledge Quiz**! This Python script offers a fun and educational way to test your understanding of basic computer terminology
+Welcome to the **Simple Computer Knowledge Quiz**! This Python script offers a fun and educational way to test your understanding of basic computer terminology.
 
 ## Overview
 
