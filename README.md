@@ -16,7 +16,7 @@ This script presents users with a series of questions about computer concepts. A
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/k3nnytang/quiz-game.git
+   git clone https://github.com/kennytangg/quiz-game.git
 
 2. Navigate to the Project Directory :
     ```bash
@@ -47,6 +47,3 @@ Hi there! I’m new to GitHub and excited to learn more as I work on this projec
 3. **Submit Pull Requests**: If you know how to code and want to make changes yourself, you can fork the repository, make your changes, and submit a pull request. This allows me to review and possibly include your updates in the main project.
 
 Since I'm still learning, I really appreciate any help or feedback you can provide. Thank you for your support and patience as I get the hang of GitHub!
-
-## License
-This project is licensed under the MIT License.
